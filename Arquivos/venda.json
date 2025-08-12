@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Material de Escritorio",
+    "Preco": 25.00,
+    "DataVenda": "2025-08-12T00:33:02.5649536-03:00"
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Material de Limpeza",
+    "Preco": 15.00,
+    "DataVenda": "2025-08-12T00:33:02.5649536-03:00"
+  },
+  {
+    "Id": 3,
+    "Nome_Produto": "Material de Informatica",
+    "Preco": 199.00,
+    "DataVenda": "2025-08-12T00:33:02.5649536-03:00"
+  }
+]

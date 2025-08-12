@@ -1,0 +1,2 @@
+Linha 1 do arquivo Leitura
+Linha 2 do arquivo Leitura - conteudo de teste.

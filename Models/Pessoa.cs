@@ -17,7 +17,12 @@ namespace ExemploExplorando.Models
             Sobrenome = sobrenome;
             Idade = idade;
         }
-
+        public void Deconstruct(out string nome, out string sobrenome, out int idade)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
+            idade = Idade;
+        }
         private string _Nome; // Campo privado para armazenar o nome
         private int _Idade; // Campo privado para armazenar a idade
         public string Nome // Propriedade pública para acessar o nome

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aZjwfcqpUw8=",
+  "dgSpecHash": "t9JfDRv7dLQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\ailto\\OneDrive\\Área de Trabalho\\Programção\\Curso dotnet\\ExemploExplorando\\ExemploExplorando.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ailto\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

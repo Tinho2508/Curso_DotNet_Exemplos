@@ -12,3 +12,7 @@ C:\Users\ailto\OneDrive\Área de Trabalho\Programção\Curso dotnet\ExemploExplo
 C:\Users\ailto\OneDrive\Área de Trabalho\Programção\Curso dotnet\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.pdb
 C:\Users\ailto\OneDrive\Área de Trabalho\Programção\Curso dotnet\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.genruntimeconfig.cache
 C:\Users\ailto\OneDrive\Área de Trabalho\Programção\Curso dotnet\ExemploExplorando\obj\Debug\net9.0\ref\ExemploExplorando.dll
+C:\Users\ailto\OneDrive\Área de Trabalho\Programção\Curso dotnet\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.sourcelink.json
+C:\Users\ailto\OneDrive\Área de Trabalho\Programção\Curso dotnet\ExemploExplorando\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\ailto\OneDrive\Área de Trabalho\Programção\Curso dotnet\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\ailto\OneDrive\Área de Trabalho\Programção\Curso dotnet\ExemploExplorando\obj\Debug\net9.0\ExemploE.B7F01285.Up2Date
